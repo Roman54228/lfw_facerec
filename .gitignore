@@ -1,0 +1,6 @@
+data/
+train_dir/
+test_dir/
+__pycache__/
+wandb/
+.DS_Store
